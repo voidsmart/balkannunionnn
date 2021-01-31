@@ -1,0 +1,19 @@
+{
+  "name": "goofy",
+  "version": "0.0.2",
+  "description": "najjaki diskord bot",
+  "main": "goofy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan@parallaxspace.com",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.11.14",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7"
+  }
+}
